@@ -53,6 +53,16 @@ The dataset includes unemployment rates for various countries, covering the year
 9. **Most Stable Employment Market:** Grouped countries by region and calculated the standard deviation of unemployment rates.
 10. **2021 Histogram:** Created a histogram of unemployment rates for 2021.
 
+## Dashboard
+
+The project features a comprehensive dashboard that visualizes key unemployment metrics and trends. Below are the dashboard images that provide insights into the unemployment landscape:
+
+- **Dashboard Image 1:**
+![Dashboard Image 1](Dashboard.jpg)
+
+- **Dashboard Image 2:**
+![Dashboard Image 2](Dashboard2.jpg)
+
 ## Visualizations
 
 - Line graphs showing trends in unemployment rates from 1991 to 2021.
@@ -67,5 +77,4 @@ The dataset includes unemployment rates for various countries, covering the year
 
 ## Conclusion
 
-This analysis of global unemployment from 1991 to 2022 has shed light on long-term trends and the effects of major economic crises like the 2008 financial crisis and the COVID-19 pandemic. While global unemployment rates have fluctuated, certain countries have shown resilience and recovery, while others continue to struggle. By analyzing regional trends and uncovering anomalies, this project provides valuable insights into how unemployment can be addressed through targeted policies, economic reform, and support systems aimed at job creation and stability.
-
+This analysis of global unemployment from 1991 to 2022 has shed light on long-term trends and the effects of major economic crises like the 2008 financial crisis and the COVID-19 pandemic. While global unemployment rates have fluctuated, certain countries have shown resilience and recovery, while others continue to struggle. By analyzing regional trends and uncovering anomalies, this project provides valuable insights into how unemployment can be addressed through targeted policies, economic reform, and support systems aimed at job

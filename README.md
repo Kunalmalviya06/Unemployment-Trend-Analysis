@@ -10,10 +10,9 @@
 3. [Dataset Description](#dataset-description)
 4. [Methodology](#methodology)
 5. [Key Questions Addressed](#key-questions-addressed)
-6. [Dashboard](#dashboard)
-7. [Visualizations](#visualizations)
-8. [Recommendations](#recommendations)
-9. [Conclusion](#conclusion)
+6. [Visualizations](#visualizations)
+7. [Recommendations](#recommendations)
+8. [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -55,10 +54,6 @@ The dataset includes unemployment rates for various countries, covering the year
 8. **Anomalies in the Dataset:** Identified unusual spikes or drops and researched historical events.
 9. **Most Stable Employment Market:** Grouped countries by region and calculated the standard deviation of unemployment rates.
 10. **2021 Histogram:** Created a histogram of unemployment rates for 2021.
-
-
-![Dashboard Image 1](Dashboard.jpg)
-![Dashboard Image 2](Dashboard2.jpg)
 
 ## Visualizations
 
